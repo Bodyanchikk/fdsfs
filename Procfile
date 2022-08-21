@@ -1,1 +1,1 @@
-worker: python commands.py
+worker: python voicebot.py
